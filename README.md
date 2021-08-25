@@ -1,10 +1,1 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on ...Reddit Clone
-- 🌱 I’m currently learning ...React.js 
-- 💬 Ask me about ...Anything!
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...
--->
+![Wakatime Chart](https://wakatime.com/share/@kateswanson/e92f7d4a-c80d-49fc-b4d3-b9901001b327.svg)
